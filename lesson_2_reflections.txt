@@ -1,0 +1,5 @@
+
+	what happens when you initialize a repository?
+
+that creates .git repository
+
