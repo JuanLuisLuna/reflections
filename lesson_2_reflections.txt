@@ -1,5 +1,22 @@
 
-	what happens when you initialize a repository?
+what happens when you initialize a repository?
 
-that creates .git repository
+that creates .git repository. That is a set of files where you will 
+work. 
 
+
+What are some situations when branches would be helpful 
+
+when you create a distinct vertion for your aplication
+
+in keeping your history organized? How would branches help?
+
+if one change into one branch don't work you can back to another point that works
+
+How do the diagrams help you visualize the branch structure?
+
+the diagram is a good idea to understand the parts of git 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+the automatic merge is  easier than manual work
